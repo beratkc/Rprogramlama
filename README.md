@@ -1,4 +1,4 @@
-# [![R Programlama](https://img.shields.io/badge/-R%20Programlama-darkblue?&logo=R)](/https://github.com/beratkc/Rprogramlama)
+# ![R Programlama](https://img.shields.io/badge/-R%20Programlama-darkblue?&logo=R)
 
  ------------------------------------------------------------------------------------------
 
